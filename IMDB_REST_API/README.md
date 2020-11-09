@@ -66,5 +66,5 @@ eg: movies/genres/comedy/
 
 This will return all the movies whose genre has comedy in it.
 
-##For better Visualization and Understanding of the project please refer to the Screenshots folder
+## For better Visualization and Understanding of the project please refer to the Screenshots folder
 
